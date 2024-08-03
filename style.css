@@ -366,14 +366,6 @@ span {
   background: none;
   color: #f16d7f;
   outline: none;
-  transition: all 0.3s;
-}
-.item_buttons:hover {
-  transform: scale(1.1);
-}
-.item_buttons:active {
-  font-weight: bold;
-  color: #5d5d5d;
 }
 .product {
   display: flex;
